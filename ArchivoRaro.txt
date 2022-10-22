@@ -6,3 +6,8 @@ Pedro Pablo
 ¿Estan estos chanchitos ya en el repositorio?
 
 ¿Es este texto de la rama 'primerarama'?
+<<<<<<< HEAD
+=======
+
+Moficando desde la primera rama sin ninguna modificación en la rama master
+>>>>>>> primerarama
