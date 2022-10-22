@@ -3,9 +3,6 @@ Chanchito feliz
 Pedro Pablo
 ¿Son Pedro y pablo chanchitos?
 ¿Que clase se chanchitos son?
-<<<<<<< HEAD
 ¿Estan estos chanchitos ya en el repositorio?
-=======
 
 ¿Es este texto de la rama 'primerarama'?
->>>>>>> primerarama
